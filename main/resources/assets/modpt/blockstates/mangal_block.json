@@ -1,0 +1,6 @@
+{
+  "variants":{
+    "": {"model": "modpt:block/mangal_block" }
+
+  }
+}

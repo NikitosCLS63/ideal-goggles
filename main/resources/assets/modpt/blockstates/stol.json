@@ -1,0 +1,6 @@
+{
+  "variants":{
+    "": {"model": "modpt:block/stol" }
+
+  }
+}
